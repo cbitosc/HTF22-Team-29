@@ -19,4 +19,3 @@ Output:stop Output:peace Output:swag Output:stop
 III. Functions(Level 3):Here we can perform some tasks in computer using webcam
 like increasing or decreasing volume ,capturing image and recording video.
 Decreasing volume Increasing volume Capture image Record video
-please refer guide in folder
